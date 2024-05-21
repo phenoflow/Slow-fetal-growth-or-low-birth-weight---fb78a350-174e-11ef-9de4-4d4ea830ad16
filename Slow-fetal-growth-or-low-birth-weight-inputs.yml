@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-fetus---primary.py
+inputModule3:
+  class: File
+  path: python/birthweight---primary.py
+inputModule4:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-malnutrition---primary.py
+inputModule5:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-gestation---primary.py
+inputModule6:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-problem---primary.py
+inputModule7:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight---primary.py
+inputModule8:
+  class: File
+  path: python/premature-slow-fetal-growth-or-low-birth-weight---primary.py
+inputModule9:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-delivered---primary.py
+inputModule10:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-unspecified---primary.py
+inputModule11:
+  class: File
+  path: python/other-slow-fetal-growth-or-low-birth-weight---primary.py
+inputModule12:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-retardation---primary.py
+inputModule13:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-mention---primary.py
+inputModule14:
+  class: File
+  path: python/slow-fetal-growth-or-low-birth-weight-nos---primary.py
+inputModule15:
+  class: File
+  path: python/growth---primary.py
+inputModule16:
+  class: File
+  path: python/birth---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
